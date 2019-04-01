@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "772169351845",
+    "firebase_url": "https://artfort-d0cb6.firebaseio.com",
+    "project_id": "artfort-d0cb6",
+    "storage_bucket": "artfort-d0cb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772169351845:android:8eb67b18bb565832",
+        "android_client_info": {
+          "package_name": "burhan.artfort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772169351845-ekog1thlob4du7rlgfgmt8tt17hruune.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "burhan.artfort",
+            "certificate_hash": "48cf8580ddce8ddf99cd28194870a4b91d584ac7"
+          }
+        },
+        {
+          "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUc0VHvdrj5WAhMJ8pTbs7omxWYCbVgPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772169351845:android:f54a1f018e1e3dad",
+        "android_client_info": {
+          "package_name": "burhan.artfortadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772169351845-bf48ab7o7cts6uvougvag3ul290vomr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "burhan.artfortadmin",
+            "certificate_hash": "48cf8580ddce8ddf99cd28194870a4b91d584ac7"
+          }
+        },
+        {
+          "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUc0VHvdrj5WAhMJ8pTbs7omxWYCbVgPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772169351845:android:9cbe874eab833282",
+        "android_client_info": {
+          "package_name": "com.example.ckbur.artfort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772169351845-obolniah8l4rfvgb3jfqvn4co2guc8k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ckbur.artfort",
+            "certificate_hash": "27f15ef1fc04ba27ec330ffdaf7009dd1d484649"
+          }
+        },
+        {
+          "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUc0VHvdrj5WAhMJ8pTbs7omxWYCbVgPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772169351845:android:eb646450e67eb4b0",
+        "android_client_info": {
+          "package_name": "com.example.mahmud.firebaserecyceler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772169351845-mmgclp2ag972ac03e562d8rtesjj9p6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmud.firebaserecyceler",
+            "certificate_hash": "61c78a437691509aaaedec199c26515785d627dd"
+          }
+        },
+        {
+          "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUc0VHvdrj5WAhMJ8pTbs7omxWYCbVgPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772169351845-85f8inn5l37cd89mhdv4vuh2ci40emka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

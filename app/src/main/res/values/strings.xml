@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ARTFORT</string>
+    <string name="title_activity_home">ARTFORT FASHION</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_Sign_out">Sign Out</string>
+    <string name="TODO">TODO</string>
+    <string name="product_name">product Name</string>
+    <string name="_1000">1000</string>
+    <string name="tk">TK</string>
+    <string name="description">Description</string>
+    <string name="total">Total:</string>
+    <string name="_10000">10000</string>
+    <string name="place_order">Place Order</string>
+    <string name="product">Product</string>
+    <string name="_100000">100000</string>
+</resources>
